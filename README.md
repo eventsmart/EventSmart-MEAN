@@ -1,3 +1,3 @@
 # EventSmart-MEAN
 
-FrontEnd
+FrontEnd Only
